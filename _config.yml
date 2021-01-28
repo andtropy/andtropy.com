@@ -1,0 +1,10 @@
+title: AndTropy.com
+email: your-email@example.com
+description: Caring about your privacy and data safety
+baseurl: ""
+url: "https://andtropy.com"
+twitter_username:
+github_username:
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-feed
